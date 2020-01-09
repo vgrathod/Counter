@@ -36,5 +36,6 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.538"
         app:layout_constraintStart_toStartOf="parent"
-        tools:layout_editor_absoluteY="264dp" />
+        tools:layout_editor_absoluteY="264dp"
+        tools:ignore="MissingConstraints" />
 </android.support.constraint.ConstraintLayout>
