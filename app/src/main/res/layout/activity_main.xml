@@ -34,8 +34,7 @@
         android:text="TextView"
         android:textSize="36sp"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.538"
         app:layout_constraintStart_toStartOf="parent"
-        tools:layout_editor_absoluteY="264dp"
-        tools:ignore="MissingConstraints" />
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteY="262dp" />
 </android.support.constraint.ConstraintLayout>
